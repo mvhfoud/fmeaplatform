@@ -1,0 +1,501 @@
+Car name,Car model,Mileage,Problem,Failure Mode,Potential Effect,Potential Cause,Severity,Occurence,Detection,General client feeling,Date of Submission
+BMW 7 Series,750Li,86921,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,9,6,1,veryhappy,2020-10-28
+BMW Z4,Z4 sDrive30i,29975,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,2,3,9,neutral,2023-08-04
+BMW i3,i3,95801,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,2,1,5,happy,2020-06-01
+BMW 5 Series,540i,117166,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,7,8,10,neutral,2018-09-15
+BMW 4 Series,430i,56968,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,9,9,5,veryangry,2023-06-15
+BMW 5 Series,540i,42949,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,6,7,3,veryhappy,2018-01-13
+BMW 7 Series,760Li,139926,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,2,8,8,veryangry,2023-06-24
+BMW Z4,Z4 M40i,103504,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,4,2,6,veryangry,2017-03-02
+BMW X3,X3 M40i,39078,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,9,6,5,veryhappy,2020-11-03
+BMW 3 Series,340i,138157,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,6,6,9,veryhappy,2018-11-18
+BMW X1,X1 sDrive18i,128340,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,2,2,5,veryangry,2022-07-20
+BMW 3 Series,320d,45603,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,9,10,10,angry,2023-09-18
+BMW 3 Series,320d,86717,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,8,5,10,veryangry,2022-04-20
+BMW X3,X3 M40i,141885,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,10,8,2,happy,2019-05-19
+BMW 1 Series,120i,55956,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,9,1,2,angry,2023-01-06
+BMW 3 Series,330i,69460,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,4,3,4,angry,2022-10-04
+BMW i3,i3,130750,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,8,8,4,happy,2019-07-01
+BMW i3,i3s,135776,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,6,5,10,angry,2017-08-08
+BMW 4 Series,440i,25515,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,9,9,5,veryhappy,2019-03-04
+BMW 4 Series,430i,118298,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,6,6,8,happy,2020-06-28
+BMW 5 Series,530i,81043,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,8,6,2,veryhappy,2018-02-19
+BMW X1,X1 xDrive28i,94370,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,5,10,7,neutral,2023-06-26
+BMW X1,X1 sDrive18i,127617,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,6,1,5,happy,2017-08-15
+BMW X5,X5 xDrive50i,116681,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,6,3,9,happy,2021-06-16
+BMW X5,X5 xDrive40i,80942,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,3,4,6,happy,2021-07-14
+BMW X5,X5 xDrive40i,118998,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,1,4,6,veryhappy,2021-08-27
+BMW 1 Series,M135i,116705,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,8,10,7,neutral,2018-10-22
+BMW 5 Series,530i,96231,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,8,5,4,neutral,2020-03-02
+BMW 5 Series,530i,138128,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,7,4,1,veryhappy,2023-03-18
+BMW 7 Series,750Li,77079,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,5,1,7,angry,2022-01-04
+BMW 1 Series,118d,143113,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,1,3,7,neutral,2023-11-04
+BMW 1 Series,M135i,33506,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,10,2,1,veryhappy,2023-04-09
+BMW X3,X3 M40i,128599,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,9,2,4,angry,2019-10-29
+BMW 1 Series,118d,144403,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,9,6,2,veryangry,2021-03-14
+BMW Z4,Z4 M40i,84045,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,7,6,7,neutral,2017-01-28
+BMW Z4,Z4 M40i,133854,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,8,4,9,veryangry,2017-08-25
+BMW 4 Series,440i,44154,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,3,6,6,veryangry,2023-11-06
+BMW X1,X1 sDrive18i,65319,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,1,7,4,veryhappy,2020-06-07
+BMW Z4,Z4 M40i,87176,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,9,3,7,happy,2020-07-02
+BMW X3,X3 M40i,132350,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,8,8,7,happy,2017-07-30
+BMW i3,i3,90205,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,2,2,6,angry,2021-05-06
+BMW 3 Series,320d,67909,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,9,1,2,angry,2023-06-10
+BMW X1,X1 xDrive28i,75342,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,2,7,8,veryhappy,2022-03-06
+BMW X5,X5 xDrive50i,36677,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,4,2,7,angry,2023-11-08
+BMW X3,X3 xDrive30i,42430,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,7,5,9,happy,2020-02-28
+BMW X3,X3 xDrive30i,137768,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,9,3,8,veryhappy,2021-06-25
+BMW Z4,Z4 M40i,78607,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,2,5,3,neutral,2017-02-13
+BMW 7 Series,760Li,147018,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,4,4,6,neutral,2020-04-19
+BMW Z4,Z4 M40i,97527,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,9,1,4,happy,2022-07-07
+BMW 5 Series,540i,108579,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,10,8,5,veryhappy,2019-06-03
+BMW 7 Series,750Li,123201,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,4,3,2,veryhappy,2019-05-31
+BMW 5 Series,540i,58750,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,8,7,6,angry,2021-08-25
+BMW 4 Series,440i,102802,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,1,4,9,angry,2023-10-14
+BMW X3,X3 M40i,110650,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,8,6,3,happy,2017-08-23
+BMW 5 Series,540i,46279,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,2,5,9,happy,2021-05-03
+BMW i3,i3,103169,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,4,1,5,veryangry,2017-12-22
+BMW X5,X5 xDrive50i,60094,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,8,9,4,happy,2017-10-12
+BMW X5,X5 xDrive40i,116195,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,2,9,9,angry,2022-01-05
+BMW X5,X5 xDrive50i,107634,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,2,1,6,veryhappy,2019-09-22
+BMW 3 Series,330i,69640,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,8,6,5,neutral,2018-03-25
+BMW X1,X1 sDrive18i,129992,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,3,4,10,angry,2022-02-17
+BMW 3 Series,340i,26122,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,7,6,1,veryangry,2019-09-03
+BMW X3,X3 M40i,116544,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,1,3,1,veryhappy,2023-12-21
+BMW 1 Series,120i,41106,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,10,7,9,happy,2018-02-16
+BMW 4 Series,430i,27026,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,4,8,6,veryangry,2022-09-29
+BMW 4 Series,440i,28754,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,1,1,2,veryhappy,2020-05-05
+BMW X1,X1 sDrive18i,84600,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,7,1,6,veryangry,2023-03-10
+BMW 3 Series,330i,111814,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,2,10,4,veryhappy,2020-05-12
+BMW X3,X3 M40i,71883,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,4,7,7,angry,2021-04-09
+BMW 1 Series,M135i,102304,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,9,3,4,veryhappy,2018-10-24
+BMW 5 Series,540i,109120,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,9,6,8,veryangry,2023-08-18
+BMW 4 Series,430i,90455,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,5,10,9,veryangry,2023-06-02
+BMW X5,X5 xDrive50i,134562,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,5,8,7,neutral,2020-04-12
+BMW 3 Series,330i,46826,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,10,7,8,veryhappy,2023-09-19
+BMW X3,X3 M40i,86178,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,6,6,5,neutral,2022-09-25
+BMW X1,X1 sDrive18i,77134,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,6,5,3,neutral,2019-03-28
+BMW X1,X1 xDrive28i,63824,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,8,7,5,veryangry,2017-05-07
+BMW 5 Series,540i,117092,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,9,2,1,neutral,2017-10-23
+BMW X5,X5 xDrive40i,82609,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,10,4,10,veryhappy,2021-10-26
+BMW 7 Series,760Li,39714,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,9,6,8,angry,2020-08-19
+BMW X1,X1 sDrive18i,113449,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,5,6,3,angry,2018-11-11
+BMW 3 Series,320d,127840,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,8,4,8,veryhappy,2023-04-10
+BMW 5 Series,540i,106531,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,6,10,4,angry,2021-10-26
+BMW 3 Series,320d,88236,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,7,5,4,angry,2019-03-03
+BMW 4 Series,440i,92321,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,10,1,5,happy,2021-12-30
+BMW X5,X5 xDrive50i,64094,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,4,1,7,happy,2017-07-24
+BMW 5 Series,530i,41151,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,7,5,7,angry,2021-09-20
+BMW Z4,Z4 sDrive30i,95706,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,2,5,8,angry,2023-12-22
+BMW 3 Series,320d,58881,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,3,8,10,neutral,2023-11-30
+BMW 4 Series,440i,149770,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,3,6,4,happy,2017-01-13
+BMW 1 Series,120i,34956,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,5,9,1,veryangry,2017-03-02
+BMW 5 Series,540i,104334,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,9,9,3,veryhappy,2021-03-11
+BMW 7 Series,750Li,49514,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,9,7,4,happy,2019-02-07
+BMW Z4,Z4 M40i,49689,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,9,1,6,veryhappy,2021-07-18
+BMW 4 Series,430i,43138,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,6,3,10,neutral,2023-07-28
+BMW 3 Series,320d,128362,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,2,1,2,veryangry,2022-05-28
+BMW 3 Series,320d,148596,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,10,10,5,veryhappy,2021-11-21
+BMW 3 Series,340i,73354,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,3,3,7,neutral,2018-08-21
+BMW X3,X3 M40i,42247,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,9,1,7,happy,2020-05-18
+BMW X3,X3 M40i,127857,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,7,5,6,neutral,2018-01-19
+BMW 5 Series,530i,104491,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,10,8,7,angry,2019-12-22
+BMW 5 Series,530i,130362,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,7,6,9,neutral,2021-05-01
+BMW X5,X5 xDrive40i,98263,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,9,2,5,happy,2022-08-10
+BMW 3 Series,330i,89689,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,9,4,8,happy,2022-06-01
+BMW 7 Series,760Li,38860,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,2,3,7,neutral,2017-12-04
+BMW X3,X3 M40i,67474,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,8,6,10,angry,2019-03-30
+BMW 3 Series,330i,80008,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,5,10,4,neutral,2021-05-18
+BMW 1 Series,M135i,130997,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,7,7,4,happy,2018-04-08
+BMW 5 Series,530i,134010,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,5,10,10,happy,2020-04-15
+BMW 3 Series,320d,23630,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,3,8,7,veryangry,2020-02-18
+BMW 3 Series,320d,125043,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,9,4,3,veryangry,2020-05-12
+BMW X3,X3 M40i,105257,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,2,8,6,veryhappy,2017-01-11
+BMW Z4,Z4 sDrive30i,44388,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,8,6,2,neutral,2017-12-30
+BMW X3,X3 xDrive30i,53989,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,4,3,3,veryangry,2021-05-09
+BMW 3 Series,330i,48866,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,3,1,3,veryangry,2022-11-04
+BMW i3,i3s,33609,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,5,10,2,veryangry,2019-02-21
+BMW X3,X3 M40i,25137,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,4,9,1,neutral,2022-07-23
+BMW Z4,Z4 sDrive30i,97793,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,1,2,3,neutral,2018-11-01
+BMW 5 Series,530i,111009,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,7,2,6,happy,2017-11-12
+BMW 5 Series,530i,61929,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,3,1,7,veryangry,2018-09-09
+BMW 5 Series,540i,60259,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,4,4,9,veryangry,2017-02-08
+BMW Z4,Z4 M40i,46608,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,9,2,9,veryangry,2023-12-13
+BMW 3 Series,340i,106002,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,6,8,5,happy,2019-09-19
+BMW Z4,Z4 M40i,138116,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,1,2,6,neutral,2021-12-01
+BMW 3 Series,340i,62203,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,4,4,8,angry,2021-03-16
+BMW 7 Series,750Li,125080,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,5,4,5,angry,2018-11-01
+BMW 3 Series,320d,100321,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,5,7,8,angry,2017-10-09
+BMW Z4,Z4 sDrive30i,47672,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,6,7,9,neutral,2018-01-15
+BMW i3,i3s,89480,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,7,4,9,veryhappy,2017-11-30
+BMW X5,X5 xDrive50i,42301,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,3,7,8,angry,2018-11-29
+BMW 5 Series,530i,107489,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,10,5,8,veryangry,2022-04-09
+BMW 4 Series,430i,88930,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,10,6,6,neutral,2019-08-02
+BMW 5 Series,530i,130941,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,4,4,5,happy,2018-07-21
+BMW X1,X1 xDrive28i,59377,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,6,4,4,veryhappy,2021-06-20
+BMW i3,i3s,119853,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,6,1,7,neutral,2022-01-24
+BMW 5 Series,530i,142242,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,5,5,10,neutral,2018-09-21
+BMW 5 Series,530i,93872,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,7,5,1,veryhappy,2020-07-05
+BMW 1 Series,118d,93149,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,9,8,8,happy,2020-12-19
+BMW 1 Series,118d,44080,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,3,8,5,neutral,2018-07-03
+BMW 4 Series,440i,57401,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,5,2,9,veryhappy,2023-11-23
+BMW 7 Series,750Li,29772,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,10,2,3,happy,2018-09-23
+BMW 1 Series,120i,97147,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,2,2,1,happy,2020-04-22
+BMW i3,i3,113094,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,2,3,2,veryhappy,2017-08-27
+BMW i3,i3s,93493,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,8,10,2,angry,2019-06-12
+BMW X1,X1 xDrive28i,57055,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,2,4,10,happy,2021-07-22
+BMW X1,X1 sDrive18i,91347,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,4,1,10,happy,2019-04-26
+BMW 5 Series,530i,22183,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,3,2,3,happy,2018-06-16
+BMW 4 Series,440i,137420,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,3,8,4,veryhappy,2023-09-15
+BMW 1 Series,120i,27864,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,2,10,9,veryangry,2021-08-30
+BMW 3 Series,340i,24172,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,1,4,10,veryangry,2019-07-28
+BMW 5 Series,540i,82652,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,9,5,2,angry,2023-10-04
+BMW 4 Series,440i,126931,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,6,9,6,happy,2023-09-13
+BMW Z4,Z4 sDrive30i,36583,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,4,5,5,veryangry,2019-03-19
+BMW X3,X3 M40i,100510,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,4,1,5,angry,2018-01-12
+BMW Z4,Z4 sDrive30i,66853,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,8,2,10,veryangry,2021-03-15
+BMW X1,X1 xDrive28i,141285,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,8,2,1,veryhappy,2018-10-25
+BMW 7 Series,750Li,55305,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,3,4,3,happy,2022-05-20
+BMW 3 Series,340i,43353,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,10,1,5,angry,2018-02-21
+BMW Z4,Z4 sDrive30i,48458,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,6,9,4,neutral,2017-04-07
+BMW i3,i3s,127302,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,8,10,7,veryhappy,2017-12-31
+BMW X1,X1 sDrive18i,112128,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,4,4,5,happy,2018-09-01
+BMW 1 Series,118d,129188,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,10,5,7,neutral,2019-11-17
+BMW 7 Series,750Li,24317,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,8,2,10,angry,2018-03-19
+BMW 1 Series,118d,147600,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,3,8,10,veryhappy,2022-12-03
+BMW 4 Series,430i,134091,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,10,1,10,veryhappy,2018-12-04
+BMW i3,i3,41605,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,8,6,5,veryhappy,2021-02-26
+BMW Z4,Z4 M40i,119124,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,4,5,10,happy,2018-07-09
+BMW 3 Series,340i,73427,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,8,1,6,happy,2018-05-07
+BMW Z4,Z4 sDrive30i,112832,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,3,9,5,veryhappy,2020-07-02
+BMW 1 Series,M135i,30600,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,5,8,3,angry,2018-10-26
+BMW X1,X1 xDrive28i,50531,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,8,9,8,veryangry,2023-06-14
+BMW i3,i3s,114026,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,10,7,9,angry,2023-05-14
+BMW 5 Series,530i,77595,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,2,9,1,angry,2017-06-10
+BMW 4 Series,430i,47300,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,7,3,4,angry,2021-09-22
+BMW 7 Series,760Li,120975,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,5,2,10,veryangry,2018-09-06
+BMW 7 Series,760Li,52934,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,10,6,5,neutral,2021-09-01
+BMW i3,i3,36474,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,9,4,2,happy,2018-01-07
+BMW X5,X5 xDrive40i,56024,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,2,5,5,veryhappy,2021-12-15
+BMW X1,X1 sDrive18i,116484,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,8,8,1,happy,2017-09-30
+BMW i3,i3s,62596,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,3,4,2,angry,2018-08-23
+BMW i3,i3,53101,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,4,7,7,veryhappy,2020-01-16
+BMW X3,X3 xDrive30i,98682,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,4,6,1,happy,2022-10-23
+BMW Z4,Z4 M40i,136569,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,2,7,10,neutral,2020-10-19
+BMW 3 Series,330i,133893,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,9,10,4,happy,2023-02-01
+BMW Z4,Z4 M40i,65220,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,3,10,4,veryangry,2022-08-16
+BMW 4 Series,440i,131538,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,6,8,9,neutral,2021-01-23
+BMW 1 Series,M135i,79044,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,9,10,10,veryangry,2017-01-17
+BMW X1,X1 sDrive18i,35861,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,10,8,6,happy,2021-01-20
+BMW 1 Series,M135i,86182,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,9,7,5,angry,2023-06-28
+BMW 5 Series,540i,79987,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,4,1,7,veryangry,2020-04-24
+BMW X1,X1 sDrive18i,76230,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,4,9,7,veryhappy,2018-05-28
+BMW 7 Series,750Li,72703,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,1,1,4,veryhappy,2018-09-17
+BMW X1,X1 xDrive28i,111468,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,6,8,9,angry,2022-08-13
+BMW X1,X1 xDrive28i,88795,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,2,10,2,neutral,2022-12-24
+BMW Z4,Z4 sDrive30i,78193,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,1,10,6,veryangry,2018-10-29
+BMW 4 Series,430i,138462,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,4,8,10,veryhappy,2020-02-19
+BMW Z4,Z4 sDrive30i,101136,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,5,5,7,neutral,2023-05-09
+BMW i3,i3,59574,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,3,6,9,neutral,2021-11-19
+BMW 4 Series,440i,80368,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,1,8,9,veryhappy,2020-07-22
+BMW 7 Series,760Li,90666,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,6,5,6,angry,2021-11-26
+BMW 7 Series,750Li,29373,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,3,7,6,veryangry,2020-08-16
+BMW 7 Series,750Li,70906,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,4,2,4,angry,2023-09-02
+BMW 3 Series,320d,87841,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,1,1,6,happy,2023-10-15
+BMW 7 Series,750Li,92429,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,6,8,6,angry,2019-08-19
+BMW 1 Series,M135i,145401,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,5,6,3,happy,2018-05-20
+BMW 1 Series,M135i,40349,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,2,3,10,neutral,2018-02-08
+BMW X1,X1 sDrive18i,124314,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,1,6,2,happy,2020-07-04
+BMW 7 Series,760Li,49003,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,10,2,5,veryangry,2023-05-28
+BMW 5 Series,540i,66657,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,4,6,5,happy,2017-11-09
+BMW X1,X1 sDrive18i,110530,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,5,6,8,angry,2019-07-06
+BMW X5,X5 xDrive40i,39607,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,5,3,5,neutral,2020-10-21
+BMW X3,X3 xDrive30i,145061,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,3,4,5,angry,2022-01-01
+BMW 3 Series,330i,87269,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,5,4,8,neutral,2020-04-18
+BMW 7 Series,760Li,102027,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,1,10,7,veryhappy,2018-06-10
+BMW Z4,Z4 M40i,136797,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,9,3,10,angry,2018-02-14
+BMW i3,i3,66153,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,3,8,9,happy,2018-03-23
+BMW i3,i3s,47820,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,10,3,2,angry,2020-12-01
+BMW Z4,Z4 M40i,50692,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,9,8,4,happy,2017-05-12
+BMW 3 Series,330i,58458,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,4,5,6,veryhappy,2017-02-07
+BMW i3,i3,41567,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,2,4,1,veryhappy,2018-06-04
+BMW 4 Series,430i,36423,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,9,4,8,happy,2020-03-20
+BMW 4 Series,430i,119274,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,4,6,4,happy,2019-01-14
+BMW 5 Series,540i,132935,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,7,7,8,angry,2020-10-22
+BMW X3,X3 M40i,65733,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,9,6,3,veryhappy,2023-11-04
+BMW 5 Series,540i,118277,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,1,4,10,angry,2018-02-05
+BMW Z4,Z4 M40i,132869,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,9,1,3,veryangry,2023-08-30
+BMW 3 Series,320d,112907,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,9,5,9,veryhappy,2021-11-13
+BMW X3,X3 xDrive30i,61881,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,6,2,6,veryhappy,2019-08-22
+BMW 7 Series,750Li,112325,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,7,8,6,veryhappy,2017-11-13
+BMW i3,i3,63754,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,8,7,2,neutral,2020-06-13
+BMW 4 Series,440i,127583,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,2,5,6,veryhappy,2022-12-24
+BMW X3,X3 M40i,87786,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,6,9,1,angry,2021-09-25
+BMW Z4,Z4 sDrive30i,62369,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,5,3,4,veryangry,2018-11-26
+BMW 5 Series,540i,85210,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,3,7,7,neutral,2017-11-18
+BMW i3,i3s,107117,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,5,6,6,veryangry,2017-10-27
+BMW X5,X5 xDrive50i,143308,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,8,6,8,angry,2022-09-02
+BMW X1,X1 xDrive28i,139128,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,2,3,7,neutral,2021-12-30
+BMW X5,X5 xDrive50i,29656,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,9,7,10,angry,2020-12-12
+BMW 5 Series,530i,68142,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,5,4,8,veryhappy,2019-05-12
+BMW X1,X1 sDrive18i,92172,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,9,2,7,happy,2019-08-05
+BMW 5 Series,530i,127856,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,5,7,9,neutral,2017-02-12
+BMW Z4,Z4 sDrive30i,104478,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,7,2,5,neutral,2020-08-30
+BMW X5,X5 xDrive50i,132079,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,7,9,4,veryangry,2018-12-29
+BMW 4 Series,430i,74618,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,5,6,7,angry,2017-08-05
+BMW 5 Series,530i,147163,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,10,4,10,happy,2023-12-09
+BMW 3 Series,320d,73786,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,7,2,6,veryangry,2019-02-21
+BMW 3 Series,330i,46077,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,3,9,8,angry,2022-04-07
+BMW 3 Series,320d,86199,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,8,5,6,veryangry,2022-12-12
+BMW X1,X1 xDrive28i,50091,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,10,7,10,neutral,2021-10-23
+BMW 7 Series,760Li,73580,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,5,10,9,veryhappy,2018-02-09
+BMW i3,i3,25999,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,7,1,9,veryhappy,2022-10-29
+BMW i3,i3,97182,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,5,2,3,angry,2022-12-29
+BMW 4 Series,440i,133324,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,7,3,8,veryangry,2023-09-23
+BMW 3 Series,340i,69957,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,7,2,7,happy,2022-01-16
+BMW X1,X1 sDrive18i,101924,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,8,1,4,veryhappy,2020-08-07
+BMW X3,X3 M40i,107252,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,9,4,10,neutral,2021-08-05
+BMW 4 Series,430i,93552,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,6,10,3,veryangry,2017-03-05
+BMW 1 Series,118d,144799,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,4,7,3,neutral,2021-12-22
+BMW 7 Series,750Li,120180,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,3,10,7,veryangry,2017-12-30
+BMW i3,i3s,132116,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,1,4,8,neutral,2021-08-28
+BMW 5 Series,530i,119842,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,10,7,4,angry,2022-07-07
+BMW X3,X3 xDrive30i,74631,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,3,3,9,neutral,2023-11-22
+BMW 4 Series,440i,39643,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,4,7,9,veryhappy,2019-07-05
+BMW X1,X1 xDrive28i,83885,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,5,2,8,veryhappy,2020-03-14
+BMW 7 Series,760Li,125307,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,3,9,9,veryhappy,2018-02-13
+BMW 1 Series,118d,83271,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,3,1,7,neutral,2019-12-28
+BMW X5,X5 xDrive40i,91154,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,8,6,8,happy,2017-09-25
+BMW 1 Series,M135i,45015,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,6,8,5,neutral,2023-11-22
+BMW 5 Series,530i,149247,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,10,4,7,happy,2017-03-28
+BMW 1 Series,M135i,91577,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,5,4,1,veryhappy,2021-04-25
+BMW Z4,Z4 M40i,64906,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,2,4,7,veryangry,2023-09-06
+BMW 4 Series,430i,75724,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,9,3,6,veryhappy,2022-12-01
+BMW 1 Series,120i,144960,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,1,8,10,happy,2023-10-14
+BMW 5 Series,530i,54501,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,2,4,7,neutral,2017-10-10
+BMW 5 Series,530i,104406,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,3,6,7,veryangry,2021-09-30
+BMW 5 Series,530i,107872,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,7,3,1,neutral,2020-08-04
+BMW 7 Series,760Li,44692,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,5,9,7,happy,2017-02-09
+BMW 7 Series,760Li,80943,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,4,5,8,happy,2021-11-11
+BMW 1 Series,118d,55454,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,1,9,4,veryhappy,2022-12-11
+BMW i3,i3s,102394,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,8,6,2,veryangry,2021-07-18
+BMW 4 Series,440i,71562,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,8,8,10,veryangry,2021-05-07
+BMW 5 Series,540i,95641,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,9,9,1,neutral,2018-10-08
+BMW X5,X5 xDrive50i,102917,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,1,1,9,happy,2023-10-23
+BMW 7 Series,750Li,110033,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,10,8,1,happy,2021-08-25
+BMW 7 Series,760Li,54270,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,10,6,4,happy,2022-05-29
+BMW i3,i3s,147468,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,1,10,1,happy,2023-08-16
+BMW X5,X5 xDrive50i,86315,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,4,3,6,neutral,2018-07-15
+BMW X1,X1 sDrive18i,56512,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,5,7,8,happy,2018-03-31
+BMW X5,X5 xDrive40i,42833,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,6,10,6,veryangry,2019-12-10
+BMW 3 Series,330i,70105,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,7,7,2,happy,2018-07-04
+BMW 1 Series,118d,40015,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,2,6,1,happy,2020-12-21
+BMW 5 Series,530i,92865,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,4,9,1,angry,2018-03-05
+BMW i3,i3,131831,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,4,3,2,happy,2017-06-24
+BMW X3,X3 xDrive30i,85595,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,8,2,5,neutral,2019-12-13
+BMW X3,X3 xDrive30i,46664,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,6,9,8,veryhappy,2023-05-03
+BMW Z4,Z4 M40i,122345,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,3,5,7,angry,2017-09-10
+BMW 1 Series,118d,89056,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,7,5,8,happy,2019-03-28
+BMW 1 Series,120i,49148,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,6,4,1,veryhappy,2020-04-04
+BMW X5,X5 xDrive40i,114781,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,7,5,5,happy,2020-06-24
+BMW X1,X1 xDrive28i,27567,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,1,10,4,neutral,2023-01-22
+BMW Z4,Z4 M40i,124883,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,3,1,6,happy,2019-02-18
+BMW 4 Series,440i,75357,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,9,5,2,angry,2019-08-31
+BMW X5,X5 xDrive40i,122142,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,2,5,5,happy,2019-04-07
+BMW 1 Series,120i,107834,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,9,10,4,neutral,2018-11-26
+BMW 7 Series,760Li,138034,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,6,7,6,angry,2017-12-08
+BMW 3 Series,320d,51541,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,9,10,9,happy,2020-11-11
+BMW 1 Series,118d,87228,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,9,1,1,happy,2020-01-01
+BMW 3 Series,320d,26310,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,1,7,4,happy,2021-12-26
+BMW 1 Series,M135i,108540,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,3,2,6,neutral,2018-06-30
+BMW X3,X3 M40i,120992,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,10,4,9,neutral,2022-04-18
+BMW X3,X3 M40i,105536,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,5,9,4,veryhappy,2018-02-22
+BMW 4 Series,440i,25898,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,7,7,3,veryhappy,2021-02-03
+BMW 5 Series,540i,70967,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,9,6,1,neutral,2020-09-18
+BMW Z4,Z4 M40i,135693,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,4,10,2,neutral,2022-06-27
+BMW 7 Series,760Li,31442,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,8,3,6,happy,2023-05-02
+BMW 5 Series,530i,96680,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,7,7,2,neutral,2017-06-29
+BMW X5,X5 xDrive40i,97563,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,9,5,4,neutral,2018-09-01
+BMW 1 Series,M135i,146917,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,1,4,3,veryangry,2021-06-30
+BMW X1,X1 sDrive18i,30106,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,10,10,9,veryangry,2019-01-05
+BMW 1 Series,118d,34727,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,1,2,7,neutral,2020-11-30
+BMW 3 Series,320d,62345,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,8,9,7,happy,2018-09-26
+BMW X1,X1 xDrive28i,72900,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,8,2,5,happy,2021-03-23
+BMW 3 Series,340i,142855,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,2,4,9,veryhappy,2020-07-21
+BMW X3,X3 xDrive30i,51648,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,6,7,8,neutral,2023-09-05
+BMW Z4,Z4 sDrive30i,67570,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,10,7,4,happy,2023-02-06
+BMW i3,i3s,96648,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,1,9,5,happy,2018-01-27
+BMW X5,X5 xDrive50i,130045,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,9,4,3,angry,2023-03-23
+BMW 4 Series,440i,77014,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,6,10,7,veryangry,2022-06-26
+BMW 5 Series,530i,107773,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,8,7,1,veryangry,2020-08-25
+BMW X5,X5 xDrive50i,22559,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,8,3,5,angry,2021-01-31
+BMW 4 Series,430i,147095,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,4,9,1,veryhappy,2018-07-01
+BMW X5,X5 xDrive50i,44770,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,5,7,1,veryangry,2017-07-08
+BMW 5 Series,540i,113582,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,7,5,8,angry,2020-03-25
+BMW 7 Series,760Li,83397,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,3,6,2,neutral,2020-03-03
+BMW 7 Series,750Li,56470,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,5,7,2,angry,2022-12-18
+BMW 3 Series,340i,109591,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,7,5,10,neutral,2021-04-19
+BMW X1,X1 sDrive18i,124276,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,1,5,7,angry,2021-11-01
+BMW 5 Series,530i,60900,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,1,8,2,angry,2022-12-16
+BMW X1,X1 xDrive28i,44957,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,9,7,3,veryhappy,2019-07-01
+BMW 7 Series,750Li,89203,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,6,9,8,veryangry,2017-09-04
+BMW X1,X1 sDrive18i,42430,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,10,1,7,veryangry,2019-07-21
+BMW i3,i3s,30928,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,10,10,7,neutral,2018-08-16
+BMW 1 Series,118d,143017,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,3,5,8,veryangry,2020-07-26
+BMW X5,X5 xDrive50i,117995,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,6,1,2,happy,2018-07-04
+BMW X1,X1 xDrive28i,78678,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,3,4,1,veryangry,2023-11-19
+BMW Z4,Z4 M40i,62069,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,8,8,5,angry,2017-09-29
+BMW 3 Series,330i,67118,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,4,7,8,angry,2020-08-15
+BMW Z4,Z4 sDrive30i,30384,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,9,2,9,angry,2023-12-25
+BMW 5 Series,530i,121935,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,7,10,9,veryhappy,2022-02-28
+BMW Z4,Z4 M40i,98362,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,3,3,8,happy,2021-04-08
+BMW i3,i3,65176,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,10,1,2,happy,2019-07-29
+BMW 1 Series,118d,49512,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,9,9,5,veryangry,2019-05-31
+BMW 7 Series,760Li,61698,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,10,6,7,happy,2022-04-19
+BMW 5 Series,530i,67508,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,6,1,7,neutral,2022-03-27
+BMW Z4,Z4 sDrive30i,127126,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,2,1,5,happy,2022-11-01
+BMW X5,X5 xDrive40i,62351,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,1,6,9,neutral,2017-02-17
+BMW 5 Series,530i,47587,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,5,2,7,veryangry,2020-11-08
+BMW 5 Series,530i,23579,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,4,5,9,veryangry,2018-03-22
+BMW X1,X1 sDrive18i,99449,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,1,4,1,veryhappy,2018-07-27
+BMW Z4,Z4 M40i,146568,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,8,1,5,veryhappy,2018-12-16
+BMW 1 Series,118d,117384,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,5,2,3,angry,2018-08-04
+BMW 1 Series,118d,108115,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,5,6,2,happy,2022-08-10
+BMW i3,i3s,131168,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,9,10,8,veryhappy,2020-03-21
+BMW 7 Series,750Li,20083,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,10,1,7,angry,2017-04-29
+BMW i3,i3s,43084,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,4,3,8,happy,2022-11-04
+BMW X1,X1 xDrive28i,59104,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,6,2,2,happy,2021-06-07
+BMW 7 Series,760Li,30418,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,8,2,1,happy,2023-10-21
+BMW Z4,Z4 sDrive30i,91966,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,8,8,7,veryangry,2023-10-11
+BMW Z4,Z4 M40i,127531,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,9,5,6,veryangry,2021-03-24
+BMW 7 Series,760Li,117857,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,9,2,7,angry,2019-09-03
+BMW 5 Series,530i,35237,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,10,5,5,veryhappy,2021-04-02
+BMW X1,X1 sDrive18i,35374,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,2,8,2,neutral,2017-11-12
+BMW i3,i3,24836,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,10,7,5,happy,2020-04-14
+BMW 1 Series,M135i,60366,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,6,2,2,angry,2022-07-21
+BMW X1,X1 xDrive28i,54470,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,3,3,1,veryangry,2021-06-04
+BMW 5 Series,540i,36029,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,8,10,7,angry,2018-02-17
+BMW 5 Series,540i,69980,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,1,4,2,veryangry,2022-01-13
+BMW X1,X1 sDrive18i,147806,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,2,10,8,happy,2018-03-03
+BMW X5,X5 xDrive40i,129145,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,6,7,8,happy,2019-09-28
+BMW 5 Series,540i,28718,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,6,5,9,angry,2020-01-19
+BMW X3,X3 xDrive30i,107271,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,10,1,3,veryhappy,2022-04-09
+BMW 7 Series,760Li,94311,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,5,4,10,neutral,2022-08-30
+BMW Z4,Z4 M40i,120151,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,9,1,1,veryangry,2023-03-15
+BMW i3,i3s,70675,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,2,7,2,happy,2023-12-13
+BMW 3 Series,340i,92668,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,3,7,2,angry,2022-05-03
+BMW 4 Series,440i,115025,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,6,2,9,angry,2022-02-05
+BMW X5,X5 xDrive40i,146344,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,10,6,9,veryhappy,2021-01-13
+BMW 7 Series,750Li,66411,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,10,3,4,veryangry,2021-10-09
+BMW 7 Series,750Li,32413,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,5,7,2,happy,2023-05-15
+BMW X3,X3 xDrive30i,96154,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,1,3,7,veryangry,2021-10-20
+BMW 4 Series,430i,83432,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,6,10,9,neutral,2022-12-15
+BMW 1 Series,120i,89038,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,8,4,8,veryhappy,2021-09-26
+BMW 5 Series,540i,112401,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,7,2,1,neutral,2019-05-03
+BMW X3,X3 M40i,116001,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,6,9,7,happy,2018-11-03
+BMW 3 Series,340i,105985,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,10,4,10,veryangry,2017-10-18
+BMW X3,X3 M40i,137747,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,7,8,7,veryhappy,2021-04-14
+BMW 4 Series,430i,140534,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,1,3,7,veryangry,2022-03-24
+BMW 1 Series,120i,53535,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,5,5,5,veryhappy,2017-06-08
+BMW 1 Series,M135i,142136,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,10,5,6,angry,2017-11-26
+BMW Z4,Z4 M40i,101628,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,5,10,5,happy,2023-12-20
+BMW i3,i3s,97424,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,3,1,7,neutral,2021-07-20
+BMW X3,X3 xDrive30i,33886,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,9,6,7,happy,2017-02-20
+BMW 3 Series,320d,99354,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,5,7,4,veryhappy,2017-12-17
+BMW 4 Series,430i,88075,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,7,4,7,angry,2019-01-09
+BMW X3,X3 xDrive30i,67067,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,10,4,3,veryangry,2022-05-01
+BMW 4 Series,430i,142024,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,2,1,4,veryangry,2017-12-10
+BMW 5 Series,530i,103752,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,10,9,7,happy,2022-09-24
+BMW 5 Series,530i,77829,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,3,8,7,veryangry,2019-01-26
+BMW 7 Series,760Li,81372,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,10,9,10,angry,2017-11-23
+BMW X3,X3 xDrive30i,40664,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,3,6,6,veryangry,2020-12-18
+BMW 4 Series,430i,133755,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,8,1,1,veryangry,2018-10-20
+BMW 5 Series,530i,143883,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,6,2,4,happy,2021-10-18
+BMW X3,X3 M40i,130793,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,9,7,6,veryhappy,2021-04-04
+BMW 1 Series,M135i,118351,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,1,3,4,happy,2020-12-14
+BMW 7 Series,750Li,122465,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,3,8,8,neutral,2023-06-19
+BMW X3,X3 xDrive30i,29832,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,4,7,1,veryhappy,2018-04-18
+BMW 5 Series,530i,43338,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,9,10,2,veryhappy,2021-09-12
+BMW 3 Series,320d,47585,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,4,7,9,veryhappy,2021-06-03
+BMW 3 Series,330i,40862,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,8,1,7,veryhappy,2020-08-02
+BMW X5,X5 xDrive40i,119547,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,4,6,9,veryangry,2020-01-07
+BMW X3,X3 xDrive30i,64368,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,7,10,1,happy,2021-12-10
+BMW 4 Series,430i,90100,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,3,3,2,angry,2018-05-07
+BMW X5,X5 xDrive40i,108509,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,4,9,9,veryhappy,2018-12-17
+BMW X3,X3 xDrive30i,58775,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,3,3,2,neutral,2018-02-06
+BMW 4 Series,430i,33456,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,3,3,9,angry,2019-12-29
+BMW X3,X3 xDrive30i,69129,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,10,3,2,veryangry,2023-06-05
+BMW 7 Series,750Li,38663,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,5,4,10,happy,2023-12-10
+BMW 3 Series,330i,65260,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,8,2,10,happy,2023-02-16
+BMW 4 Series,430i,140690,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,5,1,1,veryhappy,2023-02-19
+BMW X5,X5 xDrive40i,49511,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,4,1,6,veryangry,2017-12-25
+BMW X1,X1 sDrive18i,58255,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,7,4,1,veryhappy,2018-10-31
+BMW 4 Series,430i,133054,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,1,2,8,angry,2021-12-14
+BMW X5,X5 xDrive40i,26448,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,5,4,1,happy,2021-03-12
+BMW 3 Series,340i,84950,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,4,6,7,veryangry,2018-01-05
+BMW X1,X1 sDrive18i,128366,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,3,2,4,angry,2022-07-13
+BMW i3,i3s,141423,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,6,9,3,happy,2019-07-05
+BMW X5,X5 xDrive50i,55954,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,10,2,7,veryhappy,2020-03-20
+BMW X5,X5 xDrive40i,20963,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,7,3,5,veryhappy,2017-10-06
+BMW X3,X3 M40i,119835,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,4,10,10,neutral,2017-06-02
+BMW X5,X5 xDrive50i,73105,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,1,1,3,veryhappy,2022-06-16
+BMW i3,i3s,85003,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,9,10,5,veryangry,2021-11-02
+BMW X1,X1 xDrive28i,62338,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,7,4,3,veryhappy,2017-02-24
+BMW 3 Series,320d,68790,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,9,2,7,neutral,2019-05-27
+BMW 7 Series,750Li,128894,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,4,1,1,veryangry,2021-09-21
+BMW 5 Series,540i,127225,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,8,2,8,happy,2017-03-30
+BMW Z4,Z4 M40i,73997,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,8,1,9,veryangry,2019-07-30
+BMW X5,X5 xDrive50i,58686,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,5,4,10,neutral,2017-12-15
+BMW i3,i3,114610,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,1,2,1,happy,2017-11-29
+BMW X3,X3 M40i,110337,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,4,9,1,veryangry,2018-03-12
+BMW i3,i3s,87397,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,1,2,5,neutral,2018-04-19
+BMW i3,i3s,55885,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,4,8,9,happy,2018-07-15
+BMW X5,X5 xDrive50i,99399,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,7,8,9,neutral,2017-04-20
+BMW Z4,Z4 sDrive30i,149812,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,2,7,7,veryangry,2019-07-04
+BMW 1 Series,118d,117040,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,7,6,5,veryangry,2018-04-18
+BMW X5,X5 xDrive50i,67034,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,2,7,1,veryangry,2018-10-08
+BMW i3,i3s,26237,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,10,10,8,happy,2018-10-12
+BMW Z4,Z4 M40i,125578,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,6,10,4,angry,2021-05-11
+BMW 7 Series,750Li,111832,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,9,2,1,happy,2018-07-25
+BMW X3,X3 M40i,70670,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,4,6,9,veryangry,2018-08-05
+BMW 5 Series,540i,89082,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,9,8,6,happy,2022-12-04
+BMW X3,X3 M40i,111189,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,6,3,10,neutral,2021-12-26
+BMW X3,X3 M40i,51851,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,2,10,4,veryangry,2018-02-01
+BMW X1,X1 sDrive18i,66763,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,10,6,1,neutral,2023-11-07
+BMW 7 Series,750Li,49935,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,2,6,4,happy,2020-07-24
+BMW 3 Series,340i,44604,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,9,7,7,angry,2020-09-13
+BMW X3,X3 M40i,83507,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,6,2,8,neutral,2022-06-27
+BMW 7 Series,760Li,85258,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,9,2,6,veryhappy,2023-09-15
+BMW 5 Series,540i,51869,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,1,2,7,veryangry,2019-08-17
+BMW 4 Series,440i,146654,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,1,3,5,happy,2023-11-27
+BMW i3,i3s,122895,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,4,3,2,angry,2021-08-06
+BMW 5 Series,540i,121178,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,9,8,4,veryhappy,2022-06-16
+BMW X3,X3 M40i,102725,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,10,3,3,neutral,2017-03-03
+BMW 1 Series,M135i,59820,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,9,10,7,angry,2018-03-05
+BMW 5 Series,530i,75859,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,5,6,6,angry,2021-11-12
+BMW 4 Series,440i,84429,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,2,10,9,happy,2021-10-19
+BMW 3 Series,320d,57151,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,8,6,7,neutral,2022-01-07
+BMW 3 Series,330i,32094,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,5,4,1,neutral,2018-03-03
+BMW 1 Series,M135i,94150,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,2,8,3,neutral,2023-05-28
+BMW 5 Series,540i,132177,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,7,2,1,angry,2018-05-21
+BMW X3,X3 xDrive30i,89787,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,9,4,5,veryangry,2022-06-13
+BMW 5 Series,530i,149457,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,3,8,7,veryangry,2018-02-22
+BMW i3,i3,33420,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,1,5,5,happy,2019-11-25
+BMW X3,X3 M40i,80871,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,1,6,10,neutral,2021-06-19
+BMW 1 Series,120i,145561,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,4,6,5,happy,2020-04-21
+BMW 4 Series,440i,36409,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,1,5,4,angry,2023-10-26
+BMW 3 Series,320d,45485,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,1,7,2,angry,2017-05-01
+BMW Z4,Z4 sDrive30i,127737,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,8,4,1,happy,2021-06-07
+BMW 3 Series,340i,87616,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,7,6,4,veryangry,2019-04-08
+BMW 5 Series,540i,132213,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,1,4,9,neutral,2023-03-16
+BMW X1,X1 sDrive18i,96560,Steering,Power steering pump failure,"Loss of steering assistance, heavier steering",Fluid leaks or drive belt wear,9,10,6,veryangry,2022-06-13
+BMW i3,i3,56639,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,4,8,7,veryhappy,2019-09-02
+BMW 3 Series,320d,112519,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,2,4,8,angry,2018-12-06
+BMW 4 Series,440i,122450,Transmission issues,Gearbox slipping,Loss of acceleration and inefficient gear shifting,Low transmission fluid or worn clutch plates,1,6,9,neutral,2023-02-27
+BMW 4 Series,440i,78976,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,9,9,1,angry,2021-10-31
+BMW 4 Series,440i,39362,Suspension,Air suspension failure,Reduced ride quality and possible vehicle grounding,Air leak or compressor failure,9,5,5,neutral,2023-10-02
+BMW 1 Series,118d,49522,Engine issues,High oil consumption,Reduced engine performance and potential engine damage,Worn piston rings or valve seals,7,2,1,neutral,2019-03-08
+BMW 5 Series,530i,72661,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,2,3,3,happy,2022-05-05
+BMW 4 Series,440i,139525,Cooling system,Water pump failure,Engine overheating and risk of engine failure,Bearing failure or impeller degradation,1,7,3,neutral,2017-03-28
+BMW X5,X5 xDrive50i,42531,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,7,1,7,angry,2023-10-20
+BMW 1 Series,M135i,76941,Braking system,Brake disc warping,Increased stopping distance and vibration during braking,Overheating from high-speed braking or improper wheel alignment,1,7,6,neutral,2019-10-03
